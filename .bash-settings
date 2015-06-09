@@ -20,7 +20,7 @@ alias gd='git diff'
 alias go='git checkout'
 
 #Personal ======================================================================
-
+alias chrome='open -a Google\ Chrome --args --disable-web-security'
 
 #Colors ========================================================================
 txtblk='\[\e[0;30m\]' # Black - Regular
