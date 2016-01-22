@@ -11,8 +11,8 @@ A collection of common settings files.
 
 #### Bash
 
-> `user` folder: Copy files to `~/` to reference settings files.
-> `.bash-settings`: Settings file.
+> `user` folder: Copy files to `~/` to reference settings files.  
+> `.bash-settings`: Settings file.  
 > `git-completion.bash`: Referenced in settings file.
 
 #### iTerm
