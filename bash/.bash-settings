@@ -1,6 +1,6 @@
 export PATH=/usr/local/bin:$PATH
 
-source ~/Projects/dotfiles/git-completion.bash
+source ~/Projects/dotfiles/bash/git-completion.bash
 
 #Common ========================================================================
 export CLICOLOR=1

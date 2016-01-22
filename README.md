@@ -1,41 +1,20 @@
-dotfiles
-========
+# Dotfiles
 
 A collection of common settings files.
 
-* Bash - .bash-settings
-* Bash - git-completion.bash
-* iTerm2 - monokai-soda.itermcolors
-* Sublime Text 2 - Preferences.sublime-settings
+#####
+ * Bash: Settings file and git-completion.
+ * iTerm: Color scheme for iTerm2.
 
-usage
-=====
+### Usage
+---
 
-.bashrc
--------
+#### Bash
 
-if [ -f ~/Projects/dotfiles/.bash-settings ]; then
-   source ~/Projects/dotfiles/.bash-settings
-fi
+> `user` folder: Copy files to `~/` to reference settings files.
+> `.bash-settings`: Settings file.
+> `git-completion.bash`: Referenced in settings file.
 
-.bash_profile
--------------
+#### iTerm
 
-if [ -f ~/.bashrc ]; then
-   source ~/.bashrc
-fi
-
-git-completion.bash
--------------------
-
-Included in .bash-settings.
-
-monokai-soda.itermcolors
-------------------------
-
-Run in Finder, load in Profiles>Color>Presets.
-
-Prefences.sublime-settings
---------------------------
-
-Sublime user settings.
+> `monokai-soda.itermcolors`: Run in Finder, load in Profiles>Color>Presets.
