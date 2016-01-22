@@ -11,10 +11,10 @@ A collection of common settings files.
 
 #### Bash
 
-> `user` folder: Copy files to `~/` to reference settings files.  
+> `user`: Copy files to `~/` to reference settings.  
 > `.bash-settings`: Settings file.  
 > `git-completion.bash`: Referenced in settings file.
 
 #### iTerm
 
-> `monokai-soda.itermcolors`: Run in Finder, load in Profiles>Color>Presets.
+> `monokai-soda.itermcolors`: Run in Finder, load in iTerm at Profiles>Color>Presets.
