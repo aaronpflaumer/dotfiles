@@ -21,6 +21,7 @@ alias go='git checkout'
 
 #Personal ======================================================================
 alias chrome='open -a Google\ Chrome --args --disable-web-security'
+alias d2uall='find . -name "*" -type f -exec dos2unix {} \;'
 
 #Colors ========================================================================
 txtblk='\[\e[0;30m\]' # Black - Regular
