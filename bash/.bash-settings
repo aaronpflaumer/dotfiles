@@ -20,7 +20,8 @@ alias gd='git diff'
 alias go='git checkout'
 
 #Personal ======================================================================
-alias chrome='open -a Google\ Chrome --args --disable-web-security'
+alias chromes='open -a Google\ Chrome --args --disable-web-security'
+alias chrome='open -a "Google Chrome" .'
 alias d2uall='find . -name "*" -type f -exec dos2unix {} \;'
 
 #Colors ========================================================================
