@@ -1,4 +1,5 @@
 export PATH=/usr/local/bin:$PATH
+export PATH="$HOME/.npm-packages/bin:$PATH"
 
 source ~/Projects/dotfiles/bash/git-completion.bash
 
